@@ -1,0 +1,8 @@
+test/
+docs/
+*.md
+LICENSE
+wrangler.jsonc
+.assetsignore
+.gitignore
+node_modules/
